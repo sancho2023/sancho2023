@@ -24,7 +24,7 @@
 <table align="center">
 <tr>
 <td align="center" width="25%"><h2>39</h2><sub>works on ORCID</sub></td>
-<td align="center" width="25%"><h2>9</h2><sub>journals reviewed for</sub></td>
+<td align="center" width="25%"><h2>21</h2><sub>journals reviewed for</sub></td>
 <td align="center" width="25%"><h2>2</h2><sub>settings<br>Brazil and Africa</sub></td>
 <td align="center" width="25%"><h2>3</h2><sub>degrees, plus an MBA<br>and HTA in progress</sub></td>
 </tr>
