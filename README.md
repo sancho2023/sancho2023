@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,40:0e7490,100:38bdf8&height=260&section=header&text=SANCHO%20XAVIER&fontColor=ffffff&fontSize=62&fontAlignY=42&desc=Epidemiology%20%C2%B7%20Machine%20Learning%20%C2%B7%20Health%20Technology%20Assessment&descAlignY=64&descSize=17&animation=fadeIn" width="100%" alt="Sancho Xavier"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Pharmacist+by+training.;Epidemiologist+by+choice.;Data+person+by+habit.;Predicting+outcomes%2C+one+calibrated+model+at+a+time." alt="Typing animation"/></a>
+<a href="https://github.com/sancho2023"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=820&height=45&lines=Epidemiologist+%7C+Data+Scientist+%7C+Pharmacist;PhD+Candidate+in+Public+Health+%40+University+of+S%C3%A3o+Paulo;Cancer+Epidemiology+%26+Survival+Analysis;Machine+Learning+for+Risk+Prediction;Antimicrobial+Resistance+%7C+Child+Health+%7C+HTA;From+data+to+evidence%2C+from+evidence+to+decisions" alt="Sancho Xavier: epidemiologist, data scientist and pharmacist"/></a>
 
 <br>
 
@@ -189,7 +189,7 @@ Time-to-event outcomes (death, progression, recovery) need models that handle ce
 
 ## Selected publications
 
-Everything is on [ORCID](https://orcid.org/SEU-ORCID-ID). A selection by theme:
+Full list on [ORCID](https://orcid.org/0000-0001-9493-4098), [Google Scholar](https://scholar.google.com/citations?user=LX03TP4AAAAJ&hl=pt-BR), [Web of Science](https://www.webofscience.com/wos/author/record/GON-5675-2022). A selection by theme:
 
 <details open>
 <summary><b>Cancer prognosis and surveillance</b></summary>
@@ -264,16 +264,28 @@ Everything is on [ORCID](https://orcid.org/SEU-ORCID-ID). A selection by theme:
 
 ## Peer review
 
-I review manuscripts for:
+43 verified peer reviews on Web of Science, and 35 review records on ORCID, across 21 journals. I review manuscripts for:
 
-![BMJ Open](https://img.shields.io/badge/BMJ%20Open-0b5cad?style=flat-square)
-![PLOS Global Public Health](https://img.shields.io/badge/PLOS%20Global%20Public%20Health-d6422a?style=flat-square)
 ![Scientific Reports](https://img.shields.io/badge/Scientific%20Reports-1c1c1c?style=flat-square)
+![PLOS Global Public Health](https://img.shields.io/badge/PLOS%20Global%20Public%20Health-d6422a?style=flat-square)
+![SAGE Open Medicine](https://img.shields.io/badge/SAGE%20Open%20Medicine-0f766e?style=flat-square)
 ![BMC Public Health](https://img.shields.io/badge/BMC%20Public%20Health-2f6f4f?style=flat-square)
+![BMC Infectious Diseases](https://img.shields.io/badge/BMC%20Infectious%20Diseases-2f6f4f?style=flat-square)
+![BMC Pregnancy and Childbirth](https://img.shields.io/badge/BMC%20Pregnancy%20and%20Childbirth-2f6f4f?style=flat-square)
+![BMJ Open](https://img.shields.io/badge/BMJ%20Open-0b5cad?style=flat-square)
+![BMJ Paediatrics Open](https://img.shields.io/badge/BMJ%20Paediatrics%20Open-0b5cad?style=flat-square)
 ![Global Health Action](https://img.shields.io/badge/Global%20Health%20Action-0e7490?style=flat-square)
+![Global Public Health](https://img.shields.io/badge/Global%20Public%20Health-0e7490?style=flat-square)
 ![Health Science Reports](https://img.shields.io/badge/Health%20Science%20Reports-6d28d9?style=flat-square)
 ![Discover Health Systems](https://img.shields.io/badge/Discover%20Health%20Systems-b45309?style=flat-square)
-![J Int Med Res](https://img.shields.io/badge/J%20Int%20Med%20Res-be123c?style=flat-square)
+![Digital Health](https://img.shields.io/badge/Digital%20Health-0369a1?style=flat-square)
+![JMIR Public Health and Surveillance](https://img.shields.io/badge/JMIR%20Public%20Health%20and%20Surveillance-1d4ed8?style=flat-square)
+![Journal of International Medical Research](https://img.shields.io/badge/J%20Int%20Med%20Res-be123c?style=flat-square)
+![Journal of Public Health and Community Medicine](https://img.shields.io/badge/J%20Public%20Health%20and%20Community%20Medicine-9f1239?style=flat-square)
+![Archives of Endocrinology and Metabolism](https://img.shields.io/badge/Archives%20of%20Endocrinology%20and%20Metabolism-7c3aed?style=flat-square)
+![Gynecology and Pelvic Medicine](https://img.shields.io/badge/Gynecology%20and%20Pelvic%20Medicine-a21caf?style=flat-square)
+![Journal of Asthma](https://img.shields.io/badge/Journal%20of%20Asthma-0d9488?style=flat-square)
+![Brazilian Journal of Medical and Biological Research](https://img.shields.io/badge/Braz%20J%20Med%20Biol%20Res-15803d?style=flat-square)
 ![Acta Parasitologica](https://img.shields.io/badge/Acta%20Parasitologica-475569?style=flat-square)
 
 ---
@@ -322,11 +334,11 @@ I read about social inequalities, development economics, data science and writin
 
 <div align="center">
 
-If your work touches cancer epidemiology, child health, antimicrobial resistance, HTA or applied machine learning, I'd like to hear from you.
+If your work touches cancer epidemiology, child health, antimicrobial resistance, HTA or applied machine learning, I'd like to hear from you. **I'm open to scientific collaborations**, including joint research projects, co-authored papers, data analysis and methodological support.
 
 [![GitHub](https://img.shields.io/badge/GitHub-sancho2023-181717?style=for-the-badge&logo=github)](https://github.com/sancho2023)
-[![ORCID](https://img.shields.io/badge/ORCID-a6ce39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/SEU-ORCID-ID)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINKEDIN)
+[![ORCID](https://img.shields.io/badge/ORCID-a6ce39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-9493-4098)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sancho-xavier-bsc-mba-mph-59565a18a)
 
 <sub>Turning data into evidence, and evidence into decisions.</sub>
 
