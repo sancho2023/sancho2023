@@ -6,16 +6,17 @@
 
 <br>
 
-[**Hello**](#hello) · [**Research**](#research-interests) · [**Data**](#data-sources) · [**Survival ML**](#machine-learning-for-survival-analysis) · [**Toolbox**](#skills-and-toolbox) · [**Publications**](#selected-publications) · [**Contact**](#contact)
+[**Hello**](#hello) · [**Research**](#research-interests) · [**Data**](#data-sources) · [**Survival ML**](#machine-learning-for-survival-analysis) · [**Toolbox**](#skills-and-toolbox) · [**Contact**](#contact)
 
 <br>
 
+[![Gmail](https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SanchoXavier@gmail.com)
 [![ORCID](https://img.shields.io/badge/ORCID-a6ce39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-9493-4098)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sancho-xavier-bsc-mba-mph-59565a18a)
-[![Lattes](https://img.shields.io/badge/Lattes-1e3a8a?style=for-the-badge)](http://lattes.cnpq.br/4744735704664559)
-[![Web of Science](https://img.shields.io/badge/Web%20of%20Science-5e33bf?style=for-the-badge&logo=clarivate&logoColor=white)](https://www.webofscience.com/wos/author/record/GON-5675-2022)
-[![Scholar](https://img.shields.io/badge/Scholar-4285f4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=LX03TP4AAAAJ&hl=pt-BR)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00ccbb?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Sancho-Xavier?ev=hdr_xprf)
+[![Lattes](https://img.shields.io/badge/Lattes-1e3a8a?style=for-the-badge)](https://lattes.cnpq.br/4744735704664559)
+[![Scholar](https://img.shields.io/badge/Scholar-4285f4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=LX03TP4AAAAJ)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00ccbb?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Sancho-Xavier)
+[![Kudos](https://img.shields.io/badge/Kudos-f97316?style=for-the-badge)](https://www.growkudos.com/profile/sancho_xavier)
 
 </div>
 
@@ -23,12 +24,28 @@
 
 <table align="center">
 <tr>
-<td align="center" width="25%"><h2>39</h2><sub>works on ORCID</sub></td>
-<td align="center" width="25%"><h2>21</h2><sub>journals reviewed for</sub></td>
-<td align="center" width="25%"><h2>2</h2><sub>settings<br>Brazil and Africa</sub></td>
-<td align="center" width="25%"><h2>3</h2><sub>degrees, plus an MBA<br>and HTA in progress</sub></td>
+<td align="center" width="50%"><h2>2</h2><sub>settings<br>Brazil and Africa</sub></td>
+<td align="center" width="50%"><h2>3</h2><sub>degrees, plus an MBA<br>and HTA in progress</sub></td>
 </tr>
 </table>
+
+<!-- ===================================================================== -->
+<!-- Your existing sections go here: Hello, Research interests, Data       -->
+<!-- sources, Machine learning for survival analysis, Skills and toolbox.  -->
+<!-- Delete the "Selected publications" section if it is still there.      -->
+<!-- ===================================================================== -->
+
+## Contact
+
+<div align="center">
+
+Open to research collaborations in epidemiology, survival analysis, machine learning for risk prediction and health technology assessment.
+
+**Email:** [sanchoxavierxavier@gmail.com](mailto:sanchoxavierxavier@gmail.com) · **LinkedIn:** [sancho-xavier](https://www.linkedin.com/in/sancho-xavier-bsc-mba-mph-59565a18a) · **ORCID:** [0000-0001-9493-4098](https://orcid.org/0000-0001-9493-4098)
+
+São Paulo, Brazil
+
+</div>
 
 ---
 
