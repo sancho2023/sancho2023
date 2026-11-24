@@ -26,17 +26,6 @@
 <!-- Delete the "Selected publications" section if it is still there.      -->
 <!-- ===================================================================== -->
 
-## Contact
-
-<div align="center">
-
-Open to research collaborations in epidemiology, survival analysis, machine learning for risk prediction and health technology assessment.
-
-**Email:** [sanchoxavierxavier@gmail.com](mailto:sanchoxavierxavier@gmail.com)
-São Paulo, Brazil
-
-</div>
-
 ---
 
 ## Hello
@@ -44,6 +33,8 @@ São Paulo, Brazil
 I'm a PhD candidate in Public Health at the University of São Paulo (Faculty of Public Health), studying the epidemiology of diseases and health conditions and what determines them. I came to this field through Pharmacy in Mozambique, moved to Brazil for my Master's, and kept adding tools along the way: first epidemiology, then data science, now health economics.
 
 Most days I'm writing R or Python, cleaning messy health data, and trying to answer one question: *what does the evidence actually say, and how sure are we?*
+
+Open to research collaborations in epidemiology, survival analysis, machine learning for risk prediction and health technology assessment.
 
 > Quantitative methods are only useful if someone can trust, reproduce and act on the result.
 
