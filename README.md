@@ -20,15 +20,6 @@
 
 </div>
 
-<br>
-
-<table align="center">
-<tr>
-<td align="center" width="50%"><h2>2</h2><sub>settings<br>Brazil and Africa</sub></td>
-<td align="center" width="50%"><h2>3</h2><sub>degrees, plus an MBA<br>and HTA in progress</sub></td>
-</tr>
-</table>
-
 <!-- ===================================================================== -->
 <!-- Your existing sections go here: Hello, Research interests, Data       -->
 <!-- sources, Machine learning for survival analysis, Skills and toolbox.  -->
@@ -41,8 +32,7 @@
 
 Open to research collaborations in epidemiology, survival analysis, machine learning for risk prediction and health technology assessment.
 
-**Email:** [sanchoxavierxavier@gmail.com](mailto:sanchoxavierxavier@gmail.com) · **LinkedIn:** [sancho-xavier](https://www.linkedin.com/in/sancho-xavier-bsc-mba-mph-59565a18a) · **ORCID:** [0000-0001-9493-4098](https://orcid.org/0000-0001-9493-4098)
-
+**Email:** [sanchoxavierxavier@gmail.com](mailto:sanchoxavierxavier@gmail.com)
 São Paulo, Brazil
 
 </div>
